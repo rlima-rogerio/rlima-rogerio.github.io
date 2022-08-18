@@ -6,10 +6,10 @@ excerpt: 'This paper is about drone collision detection and classification using
 date: 2022-07-26
 venue: '2022 International Conference on Unmanned Aircraft Systems (ICUAS)'
 paperurl: 'https://ieeexplore.ieee.org/document/9836207'
-citation: 'R. R. Lima and G. A. S. Pereira, &quot; Drone Collision Detection and Classification using Proprioceptive Data, &quot; <i>2022 International Conference on Unmanned Aircraft Systems (ICUAS)<i>, 2022, pp. 562-569, doi: 10.1109/ICUAS54217.2022.9836207.'
+citation: 'R. R. Lima and G. A. S. Pereira, &quot; Drone Collision Detection and Classification using Proprioceptive Data, &quot; <i>2022 International Conference on Unmanned Aircraft Systems (ICUAS)</i>, 2022, pp. 562-569, doi: 10.1109/ICUAS54217.2022.9836207.'
 ---
 This paper is about drone collision detection and classification using IMU time-series via deep learning networks.
 
 [Download paper here](https://ieeexplore.ieee.org/document/9836207)
 
-Recommended citation: R. R. Lima and G. A. S. Pereira, &quot; Drone Collision Detection and Classification using Proprioceptive Data, &quot; <i>2022 International Conference on Unmanned Aircraft Systems (ICUAS)<i>, 2022, pp. 562-569, doi: 10.1109/ICUAS54217.2022.9836207.
+Recommended citation: R. R. Lima and G. A. S. Pereira, &quot; Drone Collision Detection and Classification using Proprioceptive Data, &quot; <i>2022 International Conference on Unmanned Aircraft Systems (ICUAS)</i>, 2022, pp. 562-569, doi: 10.1109/ICUAS54217.2022.9836207.
