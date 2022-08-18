@@ -6,7 +6,7 @@ excerpt: 'This paper addresses the attitude estimation problem for fixed-wing UA
 date: 2012-11-29
 venue: '2012 Brazilian Robotics Symposium and Latin American Robotics Symposium'
 paperurl: 'https://ieeexplore.ieee.org/document/6363352'
-citation: 'R. R. Lima and L. A. B. Tôrres,  &quot; Performance Evaluation of Attitude Estimation Algorithms in the Design of an AHRS for Fixed Wing UAVs, &quot; <i>2012 Brazilian Robotics Symposium and Latin American Robotics Symposium</i>, 2012, pp. 255-260, doi: 10.1109/SBR-LARS.2012.61.'
+citation: '<b>R. R. Lima</b> and L. A. B. Tôrres,  &quot; Performance Evaluation of Attitude Estimation Algorithms in the Design of an AHRS for Fixed Wing UAVs, &quot; <i>2012 Brazilian Robotics Symposium and Latin American Robotics Symposium</i>, 2012, pp. 255-260, doi: 10.1109/SBR-LARS.2012.61.'
 ---
 This paper addresses the attitude estimation problem for fixed-wing UAVs.
 
