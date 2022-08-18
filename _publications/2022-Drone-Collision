@@ -1,0 +1,15 @@
+---
+title: "Drone Collision Detection and Classification using Proprioceptive Data"
+collection: publications
+permalink: /publication/2022-Drone-Collision
+excerpt: 'This paper is about drone collision detection and classification using IMU time-series via deep learning networks.'
+date: 2022-07-26
+venue: '2022 International Conference on Unmanned Aircraft Systems (ICUAS)'
+paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+citation: 'Lima, Rogerio R. (2022). &quot;Drone Collision Detection and Classification using Proprioceptive Data.&quot; <i>International Conference on Unmanned Aircraft Systems (ICUAS)</i>. 1(2).'
+---
+This paper is about drone collision detection and classification using IMU time-series via deep learning networks.
+
+[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+
+Recommended citation: Lima, Rogerio R. (2022). "Drone Collision Detection and Classification using Proprioceptive Data." <i>2022 International Conference on Unmanned Aircraft Systems (ICUAS)</i>. 1(2).
