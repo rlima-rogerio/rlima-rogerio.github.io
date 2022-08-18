@@ -2,7 +2,7 @@
 title: "A Multi-model Approach for Tehter-based Drone Localization"
 collection: publications
 permalink: /publication/2022-Tether-based-localization-framework
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: 'This paper proposes a tether-based localization framework using neural networks.'
 date: 2022-01-01
 venue: 'Journal of Intelligent & Robotic Systems'
 paperurl: 'http://rlima-rogerio.github.io/files/paper3.pdf'
