@@ -6,7 +6,7 @@ excerpt: 'This paper proposes a tether-based localization framework using neural
 date: 2022-01-01
 venue: 'Journal of Intelligent & Robotic Systems'
 paperurl: 'http://rlima-rogerio.github.io/files/paper3.pdf'
-citation: 'Lima, Rogerio R. et al. (2022). &quot; A Multi-model Approach for Tehter-based Drone Localization.&quot; <i>Journal of Intelligent & Robotic Systems</i>.'
+citation: '<b>R. R. Lima</b> et al. (2022). &quot; A Multi-model Approach for Tehter-based Drone Localization.&quot; <i>Journal of Intelligent & Robotic Systems</i>.'
 ---
 This paper proposes a tether-based localization framework using neural networks.
 
