@@ -17,20 +17,18 @@ Education
 
 Work experience
 ======
-* 2011 ~ 2013: Lecturer
+* 2011 ~ 2013: Teacher
   * Education Institute for the Labor of Minas Gerais (UTRAMIG)
   * Duties included: Teaching mechatronic classes
-  * Supervisor: Professor Git
+  * [I'm an inline-style link with title](https://www.google.com "Google's Homepage")
 
 * 2013 ~ 2014: System Engineer
   * Foundation for Technological Innovations (FITec)
-  * Duties included: Design, prototyping, and testing taylored embedded systems for UAVs. Flight tests and field operations. Technical documentation and report tasks.
-  * Supervisor: Professor Hub
+  * Duties included: Design, prototyping, and testing taylored embedded systems for fixed-wing mini-UAVs (~10 kg). Flight tests and field operations. Technical documentation and report tasks.
 
 * 2014 ~ 2017: Embedded Systems Consultant
   * Konatus
-  * Duties included: Translate client specifications into hardware/firmware requirements. Conduct on-site training on formal verification tools.
-  * Supervisor: Professor Hub
+  * Duties included: Translate client specifications into hardware/firmware requirements. Conduct on-site training on formal verification tools (LDRA).
 
 Skills
 ======
