@@ -91,6 +91,9 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Volunteer
 ======
-* Currently signed in to 43 different slack teams
+* **AVEC - Liga da Robótica**, Belo Horizonte, Brazil, May to November/2019.
+* Free introductory robotic classes for students aging from 10 to 14 years old of public schools
+* Duties included: Collaborated by outreaching the project to recruit other volunteer students to join the project as mentors. Also joined to the instructors to help the kids in person during the coding sessions in some classes. 
+* [Liga da Robotica's homepage](https://avecmg.org.br/portfolio-items/liga-da-robotica "Liga da Robotica's Homepage")
