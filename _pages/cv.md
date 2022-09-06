@@ -96,7 +96,7 @@ Organization of Knowledge Transfer Events
 * Line Following Robot Competition (CompRo) at UniBH, Belo Horizonte, Brazil, November 2017
   * Idealizer and creator of the competition.
   * Levarge classes offered to all students enrolled in the competition.
-  * [Behind the scenes and compilation of the best moments of the competition!] (https://youtu.be/7ijQw3XkiO8 "CompRo Video Compilation")
+  * [Compilation of the best moments of the competition!](https://youtu.be/7ijQw3XkiO8 "CompRo Video Compilation")
 
 * Introduction to Embedded Systems. University Center of Belo Horizonte (UniBH), Belo Horizonte, Brazil, 2016.
 * Arduino Workshop. University Center of Belo Horizonte (UniBH), Belo Horizonte, Brazil, 2017.
