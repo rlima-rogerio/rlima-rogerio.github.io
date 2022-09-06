@@ -90,7 +90,19 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+Organization of Knowledge Transfer Events
+======
+* Line Following Robot Competition (CompRo) at UniBH, Belo Horizonte, Brazil, November 2017
+  * Idealizer and creator of the competition.
+  * Levarge classes offered to all students enrolled in the competition.
+  * [Behind the scenes and compilation of the best moments of the competition!] (https://youtu.be/7ijQw3XkiO8 "CompRo Video Compilation")
+
+* Introduction to Embedded Systems. University Center of Belo Horizonte (UniBH), Belo Horizonte, Brazil, 2016.
+* Arduino Workshop. University Center of Belo Horizonte (UniBH), Belo Horizonte, Brazil, 2017.
+* Arduino Workshop. University Center of Belo Horizonte (UniBH), Belo Horizonte, Brazil, 2018.
+* Arduino Workshop. University Center of Belo Horizonte (UniBH), Belo Horizonte, Brazil, 2019.
+
 Volunteer
 ======
 * **AVEC - Liga da Robótica**, Belo Horizonte, Brazil, May to November/2019.
