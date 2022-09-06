@@ -20,11 +20,12 @@ Work experience
 * 2011 ~ 2013: Teacher
   * Education Institute for the Labor of Minas Gerais (UTRAMIG)
   * Duties included: Teaching mechatronic classes
-  * [I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+  * [Link to the UTRAMIG's webpage.]([https://utramig.mg.gov.br] "UTRAMIG's Homepage")
 
 * 2013 ~ 2014: System Engineer
   * Foundation for Technological Innovations (FITec)
   * Duties included: Design, prototyping, and testing taylored embedded systems for fixed-wing mini-UAVs (~10 kg). Flight tests and field operations. Technical documentation and report tasks.
+  * [Homepage]([https://www.fitec.org.br] "UTRAMIG's Homepage")
 
 * 2014 ~ 2017: Embedded Systems Consultant
   * Konatus
