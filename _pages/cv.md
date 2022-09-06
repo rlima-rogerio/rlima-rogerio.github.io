@@ -34,10 +34,10 @@ Work experience
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
+* Programming Languages: C/C++, MATLAB, Python, Assembly
+* Libraries and Tools:
+  * Robot Operating System (ROS)
+  * Open-source Computer Vision Library (OpenCV)
   * Sub-skill 2.3
 * Skill 3
 
