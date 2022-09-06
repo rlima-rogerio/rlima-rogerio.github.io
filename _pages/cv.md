@@ -40,9 +40,21 @@ Skills
   * MATLAB, 
   * Python, 
 * Libraries and Tools:
-  * Robot Operating System (ROS), Open-source Computer Vision Library (OpenCV)
-  * Sub-skill 2.3
-* Skill 3
+  * Robot Operating System (ROS), 
+  * Open-source Computer Vision Library (OpenCV)
+* Simulation
+  * Gazebo
+  * Simulink (MATLAB)
+  * Spice (OrCAD, LTspice)
+* CAD
+  * Eagle
+  * Altium
+  * AutoCAD
+  * SolidWorks
+  * Visio
+* Operating Systems:
+  * Linux
+  * Microsoft Windows
 
 Publications
 ======
