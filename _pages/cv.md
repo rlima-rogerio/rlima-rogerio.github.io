@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.Eng. in Electrical Engineering, Federal University of Minas Gerais (UFMG), 2009
-* M.Sc. in Electrical Engineering, UFMG, 2014
 * Ph.D in Robotics, West Virginia University (WVU), 2024 (expected)
+* M.Sc. in Electrical Engineering, UFMG, 2014
+* B.Eng. in Electrical Engineering, Federal University of Minas Gerais (UFMG), 2009
+* Electrical Technician, Industrial Apprenticeship National Service (SENAI), 1998
 
 Work experience
 ======
