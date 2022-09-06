@@ -17,19 +17,36 @@ Education
 
 Work experience
 ======
-* 2011 ~ 2013: Teacher
-  * Education Institute for the Labor of Minas Gerais (UTRAMIG)
-  * Duties included: Teaching mechatronic classes
-  * [Link to the UTRAMIG's webpage.](https://utramig.mg.gov.br "UTRAMIG's Homepage")
+* 2020 ~ ----: Graduate Research Assistant
+  * Field and Aerial Robotics (FARO) Laboratory at West Virginia University (WVU)
+  * Duties included: Research activities towards the Ph.D. degree.
+  * Under unpaid leave license while pursuing the Ph.D. degree.
+  * [UniBH's homepage.](https://www.unibh.br "UniBH's Homepage")
 
-* 2013 ~ 2014: System Engineer
-  * Foundation for Technological Innovations (FITec)
-  * Duties included: Design, prototyping, and testing taylored embedded systems for fixed-wing mini-UAVs (~10 kg). Flight tests and field operations. Technical documentation and report tasks.
-  * [Homepage](https://www.fitec.org.br "UTRAMIG's Homepage")
+* 2019 ~ 2013: Lecturer
+  * University Center of Belo Horizonte (UniBH)
+  * Duties included: Taught undergraduate engineering courses, advising capstone projects, course outreach activities.
+  * Under unpaid leave license while pursuing the Ph.D. degree.
+  * [UniBH's homepage.](https://www.unibh.br "UniBH's Homepage")
 
 * 2014 ~ 2017: Embedded Systems Consultant
   * Konatus
   * Duties included: Translate client specifications into hardware/firmware requirements. Conduct on-site training on formal verification tools (LDRA).
+  * [Konatus' homepage](https://www.konatus.com.br/en "Konatus' Homepage")
+
+* 2013 ~ 2014: System Engineer
+  * Foundation for Technological Innovations (FITec)
+  * Duties included: Design, prototyping, and testing taylored embedded systems for fixed-wing mini-UAVs (~10 kg). Flight tests and field operations. Technical documentation and report tasks.
+  * [FITec's homepage](https://www.fitec.org.br "FITec's Homepage")
+
+* 2011 ~ 2013: Teacher
+  * Education Institute for the Labor of Minas Gerais (UTRAMIG)
+  * Duties included: Taught mechatronic classes.
+  * [UTRAMIG's homepage.](https://utramig.mg.gov.br "UTRAMIG's Homepage")
+
+
+
+
 
 Skills
 ======
