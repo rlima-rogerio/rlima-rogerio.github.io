@@ -1,1 +1,15 @@
-teste
+---
+title: "Simulação Hardware-in-the-loop Aplicada a Avaliação de Algoritmos de Estimação de Atitude para VANTS"
+collection: publications
+permalink: /publication/2013-12-Simulacao-Hardware
+excerpt: 'This paper presents the hardware-in-the-loop approach in the evaluation of attitude estimation for UAVs.'
+date: 2013-10-15
+venue: '2013 Simpósio Brasileiro de Automação Inteligente (SBAI)'
+paperurl: 'http://www.sbai2013.ufc.br/pdfs/5850.pdf'
+citation: 'G. S. Ribeiro, <b>R. R. Lima</b>, G. A. S. Pereira, L. A. B. Tôrres, L. C. de Araújo Pimenta, "Simulação Hardware-in-the-loop Aplicada a Avaliação de Algoritmos de Estimação de Atitude para VANTS", 2013.'
+---
+This paper presents the hardware-in-the-loop approach in the evaluation of attitude estimation for UAVs.
+
+[Download paper here](http://www.sbai2013.ufc.br/pdfs/5850.pdf)
+
+Recommended citation: G. S. Ribeiro, R. R. Lima, G. A. S. Pereira, L. A. B. Tôrres, L. C. de Araújo Pimenta, "Simulação Hardware-in-the-loop Aplicada a Avaliação de Algoritmos de Estimação de Atitude para VANTS", 2013.
