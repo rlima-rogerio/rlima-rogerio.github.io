@@ -23,13 +23,11 @@ Work experience
 * 2020 ~ present: **Graduate Research Assistant**
   * Field and Aerial Robotics (FARO) Laboratory at West Virginia University (WVU)
   * Duties included: Research activities towards the Ph.D. degree.
-  * Under unpaid leave license while pursuing the Ph.D. degree.
   * [FARO's homepage.](https://farolab.wvu.edu "FARO's Homepage")
 
 * 2019 ~ 2013: **Lecturer**
   * University Center of Belo Horizonte (UniBH)
   * Duties included: Taught undergraduate engineering courses, advising capstone projects, course outreach activities.
-  * Under unpaid leave license while pursuing the Ph.D. degree.
   * [UniBH's homepage.](https://www.unibh.br "UniBH's Homepage")
 
 * 2014 ~ 2017: **Embedded Systems Consultant***
