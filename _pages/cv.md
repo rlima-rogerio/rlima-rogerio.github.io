@@ -34,7 +34,7 @@ Work experience
 
 * 2014 ~ 2017: **Embedded Systems Consultant***
   * Konatus
-  * Duties included: Translate client specifications into hardware/firmware requirements. Conduct on-site training on formal verification tools (LDRA).
+  * Duties included: Translate customer specifications into hardware/firmware requirements. Conduct on-site training on formal verification tools (LDRA).
   * [Konatus' homepage](https://www.konatus.com.br/en "Konatus' Homepage")
 
 * 2013 ~ 2014: **System Engineer**
