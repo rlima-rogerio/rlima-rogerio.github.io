@@ -44,7 +44,7 @@ Work experience
 
 * 2011 ~ 2013: **Teacher**
   * Education Institute for the Labor of Minas Gerais (UTRAMIG)
-  * Duties included: Taught mechatronic classes.
+  * Duties included: Taught electrical circuits and electronic classes for Mechatronics (technical level) course.
   * [UTRAMIG's homepage.](https://utramig.mg.gov.br "UTRAMIG's Homepage")
 
 
