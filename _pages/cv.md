@@ -39,7 +39,7 @@ Work experience
 
 * 2013 ~ 2014: **System Engineer**
   * Foundation for Technological Innovations (FITec)
-  * Duties included: Design, prototyping, and testing taylored embedded systems for fixed-wing mini-UAVs (~10 kg). Flight tests and field operations. Technical documentation and report tasks.
+  * Duties included: Design, prototyping, and testing tailored embedded systems for fixed-wing mini-UAVs (~10 kg). Flight tests and field operations. Technical documentation and report tasks.
   * [FITec's homepage](https://www.fitec.org.br "FITec's Homepage")
 
 * 2011 ~ 2013: **Teacher**
