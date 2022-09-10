@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Download my CV here](http://rlima-rogerio.github.io/files/CV[Rogerio-Lima].pdf)
+
 Education
 ======
 * Ph.D in Robotics, West Virginia University (WVU), 2024 (expected)
