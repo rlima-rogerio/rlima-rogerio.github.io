@@ -53,12 +53,13 @@ Skills
 ======
 * Programming Languages: 
   * Assembly
-  * C/C++, 
-  * MATLAB, 
-  * Python, 
+  * C/C++
+  * MATLAB 
+  * Python 
 * Libraries and Tools:
-  * Robot Operating System (ROS), 
+  * Robot Operating System (ROS)
   * Open-source Computer Vision Library (OpenCV)
+  * TensorFlwo
 * Simulation
   * Gazebo
   * Simulink (MATLAB)
