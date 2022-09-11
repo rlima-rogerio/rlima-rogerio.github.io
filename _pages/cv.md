@@ -13,7 +13,7 @@ Download my [CV](http://rlima-rogerio.github.io/files/CV[Rogerio-Lima].pdf) here
 
 Education
 ======
-* Ph.D in Robotics, West Virginia University (WVU), 2024 (expected)
+* Ph.D. in Robotics, West Virginia University (WVU), 2024 (expected)
 * M.Sc. in Electrical Engineering, UFMG, 2014
 * B.Eng. in Electrical Engineering, Federal University of Minas Gerais (UFMG), 2009
 * Electrical Technician, Industrial Apprenticeship National Service (SENAI), 1998
