@@ -59,7 +59,7 @@ Skills
 * Libraries and Tools:
   * Robot Operating System (ROS)
   * Open-source Computer Vision Library (OpenCV)
-  * TensorFlwo
+  * TensorFlow
 * Simulation
   * Gazebo
   * Simulink (MATLAB)
