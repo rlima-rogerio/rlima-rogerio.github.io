@@ -30,7 +30,7 @@ Work experience
   * Duties included: Taught undergraduate engineering courses, advising capstone projects, course outreach activities.
   * [UniBH's homepage.](https://www.unibh.br "UniBH's Homepage")
 
-* 2014 ~ 2017: **Embedded Systems Consultant***
+* 2014 ~ 2017: **Embedded Systems Consultant**
   * Konatus
   * Duties included: Translate customer specifications into hardware/firmware requirements. Conduct on-site training on formal verification tools (LDRA).
   * [Konatus' homepage](https://www.konatus.com.br/en "Konatus' Homepage")
