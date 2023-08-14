@@ -3,14 +3,14 @@ title: "A Multi-model Framework for Tether-based Drone Localization"
 collection: publications
 permalink: /publication/2022-10-A-Multi-model
 excerpt: 'This paper proposes a tether-based localization framework using neural networks.'
-date: 2022-01-01
+date: 2023-06-06
 venue: 'Journal of Intelligent & Robotic Systems'
-paperurl: 'http://rlima-rogerio.github.io/files/paper3.pdf'
-citation: '<b>R. R. Lima</b> et al. (2022). &quot; A Multi-model Framework for Tehter-based Drone Localization.&quot; <i>Journal of Intelligent & Robotic Systems</i>.'
+paperurl: 'https://link.springer.com/article/10.1007/s10846-023-01851-0'
+citation: '<b>R. R. Lima</b> and Guilherme A. S. Pereira. &quot; A Multi-model Framework for Tether-based Drone Localization,&quot; in <i>Journal of Intelligent & Robotic Systems</i>, vol. 108, no. 2, p.20, June 2023. https://doi.org/10.1007/s10846-023-01851-0'
 ---
 This paper proposes a tether-based localization framework using neural networks.
 This paper is still <b>under review</b>.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+[Download paper here](https://link.springer.com/article/10.1007/s10846-023-01851-0)
 
-Recommended citation: Lima, Rogerio R. et al. (2022). "A Multi-model Framework for Tehter-based Drone Localization" <i>Journal of Intelligent & Robotics Systems</i>. 1(3).
+Recommended citation: R. R. Lima and Guilherme A. S. Pereira. &quot; A Multi-model Framework for Tether-based Drone Localization,&quot; in <i>Journal of Intelligent & Robotic Systems</i>, vol. 108, no. 2, p.20, June 2023. https://doi.org/10.1007/s10846-023-01851-0.
