@@ -22,12 +22,17 @@ Work experience
 ======
 * 2020 ~ present: **Graduate Research Assistant**
   * Field and Aerial Robotics (FARO) Laboratory at West Virginia University (WVU)
-  * Duties included: Research activities towards the Ph.D. degree.
+  * Duties included: Research activities toward the Ph.D. degree.
   * [FARO's homepage.](https://farolab.wvu.edu "FARO's Homepage")
 
+* May/2023 ~ Aug/2023: **EDG Intern**
+  * MathWorks
+  * Duties included: Worked in the Engineering Development Group (EDG) by implementing solutions in C++ and MATLAB, attending recurrent meetings to present deliverables, and working closely with co-workers to keep the project moving forward.
+  * [MathWorks's homepage.](https://www.mathworks.com "MathWorks' Homepage")
+  * 
 * 2019 ~ 2013: **Lecturer**
   * University Center of Belo Horizonte (UniBH)
-  * Duties included: Taught undergraduate engineering courses, advising capstone projects, course outreach activities.
+  * Duties included: Taught undergraduate engineering courses, advising capstone projects, and course outreach activities.
   * [UniBH's homepage.](https://www.unibh.br "UniBH's Homepage")
 
 * 2014 ~ 2017: **Embedded Systems Consultant**
