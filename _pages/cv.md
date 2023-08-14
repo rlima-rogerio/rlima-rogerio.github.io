@@ -25,9 +25,9 @@ Work experience
   * Duties included: Research activities toward the Ph.D. degree.
   * [FARO's homepage.](https://farolab.wvu.edu "FARO's Homepage")
 
-* May/2023 ~ Aug/2023: **EDG Intern**
+* May/2023 ~ Aug/2023: **Engineering Development Group (EDG) Intern**
   * MathWorks
-  * Duties included: Worked in the Engineering Development Group (EDG) by implementing solutions in C++ and MATLAB, attending recurrent meetings to present deliverables, and working closely with co-workers to keep the project moving forward.
+  * Duties included: Implementing solutions in C++ and MATLAB, attending recurrent meetings to present deliverables, and working closely with co-workers to accomplish the project within its timeline.
   * [MathWorks's homepage.](https://www.mathworks.com "MathWorks' Homepage")
   * 
 * 2019 ~ 2013: **Lecturer**
