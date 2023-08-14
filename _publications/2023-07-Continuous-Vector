@@ -2,13 +2,13 @@
 title: "Continuous Vector Fields for Precise Cable-Guided Landing of Tethered UAVs"
 collection: publications
 permalink: /publication/2023-07-Continuous-Vector
-excerpt: 'This paper presents a method for the precise cable-guided landing of tethered drones based on a continuous velocity vector field that relies on the tether variables only.'
+excerpt: 'This paper presents a method for the precise cable-guided landing of tethered drones based on a continuous velocity vector field that relies on the tether variables only. A video of the experiments can be seen in this [link](https://www.youtube.com/watch?v=nCo1yEIxcQY).'
 date: 2023-07-01
 venue: 'IEEE Robotics and Automation Letters'
 paperurl: 'https://ieeexplore.ieee.org/document/10141667'
 citation: '<b>R. R. Lima</b>, B. Martinez Rocamora and G. A. S. Pereira, &quot; Continuous Vector Fields for Precise Cable-Guided Landing of Tethered UAVs,&quot; in <i>IEEE Robotics and Automation Letters</i>, vol. 8, no. 7, pp. 4370-4377, July 2023, doi: 10.1109/LRA.2023.3281940.'
 ---
-This paper presents a method for the precise cable-guided landing of tethered drones based on a continuous velocity vector field that relies on the tether variables only.
+This paper presents a method for the precise cable-guided landing of tethered drones based on a continuous velocity vector field that relies on the tether variables only. A video of the experiments can be seen in this [link](https://www.youtube.com/watch?v=nCo1yEIxcQY).
 
 [Download paper here](https://ieeexplore.ieee.org/document/10141667)
 
