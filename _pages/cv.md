@@ -28,8 +28,8 @@ Work experience
 * May ~ Aug/2023: **Engineering Development Group (EDG) Intern**
   * MathWorks
   * Duties included: Implementing solutions in C++ and MATLAB, attending recurrent meetings to present deliverables, and working closely with co-workers to accomplish the project within its timeline.
-  * [MathWorks's homepage.](https://www.mathworks.com "MathWorks' Homepage")
-  * 
+  * [MathWorks EDG's homepage.](https://www.mathworks.com/company/jobs/students/edg.html "MathWorks EDG's Homepage")
+    
 * 2019 ~ 2013: **Lecturer**
   * University Center of Belo Horizonte (UniBH)
   * Duties included: Taught undergraduate engineering courses, advising capstone projects, and course outreach activities.
