@@ -1,0 +1,15 @@
+---
+title: "Tension-Aware Motion Planning for Tethered Robots"
+collection: publications
+permalink: /publication/2025-01-Tension-Aware
+excerpt: 'This paper presents a path-planning approach for tethered robots. The proposed planner finds paths that minimize the tether tension due to tether–obstacle and tether–floor interaction.'
+date: 2025-01-25
+venue: 'MDPI Robotics'
+paperurl: 'https://www.mdpi.com/2218-6581/14/2/11'
+citation: '<b>Lima, R. R.</b>, & Pereira, G. A. S. (2025). &quot; Tension-Aware Motion Planning for Tethered Robots &quot;. <i>Robotics</i>, 14(2), 11. https://doi.org/10.3390/robotics14020011'
+---
+This paper presents a path-planning approach for tethered robots. The proposed planner finds paths that minimize the tether tension due to tether–obstacle and tether–floor interaction.
+
+[Download paper here](https://www.mdpi.com/2218-6581/14/2/11)
+
+Recommended citation: <b>Lima, R. R.</b>, & Pereira, G. A. S. (2025). &quot; Tension-Aware Motion Planning for Tethered Robots &quot;. <i>Robotics</i>, 14(2), 11. https://doi.org/10.3390/robotics14020011
