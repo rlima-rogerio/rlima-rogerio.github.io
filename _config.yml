@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Rogerio Rodrigues Lima"
 title_separator          : "-"
 name                     : &name "Rogerio Rodrigues Lima"
-description              : &description "PhD Candidate @ WVU"
+description              : &description "PhD"
 url                      : https://rlima-rogerio.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rlima-rogerio/rlima-rogerio.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Rogerio Lima"
   avatar           : "profile.jpg"
-  bio              : "PhD Candidate @ West Virginia University"
-  location         : "Morgantown/WV"
+  bio              : "PhD"
+  location         : "Belo Horizonte/MG - Brazil"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=KRpOMZUAAAAJ&hl=en"
