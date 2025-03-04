@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Rogerio Rodrigues Lima"
 title_separator          : "-"
 name                     : &name "Rogerio Rodrigues Lima"
-description              : &description "PhD"
+description              : &description "Engineer & Robotics Researcher"
 url                      : https://rlima-rogerio.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rlima-rogerio/rlima-rogerio.github.io"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Rogerio Lima"
+  name             : "Rogerio Lima, PhD"
   avatar           : "profile.jpg"
   bio              : "PhD"
   location         : "Belo Horizonte/MG - Brazil"
