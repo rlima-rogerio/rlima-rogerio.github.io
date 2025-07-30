@@ -1,10 +1,10 @@
 ---
 title: "Semantics-Aware Path Planning for Quadrupedal Robots"
 collection: publications
-permalink: /publication/2025-03-Semantics-Aware
-excerpt: 'This paper presents a semantics-aware path-planning framework that enables quadrupedal robots to navigate environments by walking on specific terrains while considering safety, energy, and time constraints. The proposed method identifies key traversable elements and classifies them on a preference scale using weights in a cost function. <br> A <b>video</b> of the experiments can be seen in this [link](https://youtu.be/H4hJ3W9Bz9Y).'
-date: 2025-03-01
+permalink: /publication/2025-07-Semantics-Aware
+excerpt: 'This paper presents a semantics-aware path-planning framework that enables quadrupedal robots to navigate environments by walking on specific terrains while considering safety, energy, and time constraints. The proposed method identifies key traversable elements and classifies them on a preference scale using weights in a cost function. <br> A <b>video</b> of the experiments can be seen in this [link](https://youtu.be/aUx0T6vrANc).'
+date: 2025-07-30
 ---
-[Link to the experiments here](https://www.youtube.com/)
+[Link to the experiments here](https://youtu.be/aUx0T6vrANc/)
 
 
