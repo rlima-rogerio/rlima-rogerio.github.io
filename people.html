@@ -1,0 +1,46 @@
+---
+layout: default
+title: People
+permalink: /people/
+---
+<h1>People</h1>
+<p class="muted">Students I currently advise or co-advise, with research carried out at the MACRO group (CORO and LEX laboratories), UFMG.</p>
+
+{% for g in site.data.people.current %}
+<h2>{{ g.group }}</h2>
+<div class="people">
+  {% for m in g.members %}
+  <div class="person">
+    {% if m.photo %}
+      <img class="avatar" src="{{ '/assets/img/students/' | append: m.photo | relative_url }}" alt="" width="56" height="56" loading="lazy">
+    {% else %}
+      {% assign parts = m.name | split: " " %}
+      <span class="avatar" aria-hidden="true">{{ parts.first | slice: 0 }}{{ parts.last | slice: 0 }}</span>
+    {% endif %}
+    <div>
+      <div class="name">{{ m.name }}</div>
+      <div class="role">{{ m.role }}</div>
+    </div>
+  </div>
+  {% endfor %}
+</div>
+{% endfor %}
+
+<h2>Alumni</h2>
+<ul class="list">
+  {% for a in site.data.people.alumni %}
+  <li>
+    <span class="title">{{ a.name }}</span>
+    <span class="date"> · {{ a.kind }}, {{ a.place }}, {{ a.year }}</span><br>
+    <span class="muted small">{{ a.title }}</span>
+  </li>
+  {% endfor %}
+</ul>
+
+<h2>Joining the group</h2>
+<p>
+  Current projects involve aerial vehicles, tethered drones, sensor fusion, embedded systems, ROS/Gazebo
+  simulation and sim-to-real validation. Undergraduates usually join through research projects with weekly
+  advising meetings; graduate admission follows the <a href="https://www.ppgee.ufmg.br/">PPGEE/UFMG</a> selection process.
+  Send an <a href="mailto:{{ site.email }}">email</a> with your CV, transcript and a short statement of interests.
+</p>

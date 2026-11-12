@@ -1,0 +1,25 @@
+# Newest first. date: free text shown as-is. link: optional (site path or URL)
+- date: Nov 2026
+  title: "Extension course: Introduction to Robotic Perception"
+  text: Free 8-hour online course on sensors, localization and sensor fusion (in Portuguese). Enrollment opens on Nov 15, 2026.
+  link: /cursos/percepcao-robotica/
+
+- date: Jul 2026
+  title: 2025 faculty activity report compiled at DEE/UFMG
+  text: Teaching, advising, research projects, publications and extension activities.
+
+- date: 2026
+  title: Associate Editor, IEEE ICUAS 2026
+  text: Also reviewing for IEEE ICRA, IROS, RA-L, TIE, ICAR, CBA and Elsevier Measurement.
+
+- date: Sep 2025
+  title: Three undergraduate research projects approved
+  text: VTOL tail-sitter UAV, intelligent tether system for drones, and sim-to-real decision making for mobile robots.
+  link: /research/
+
+- date: Sep 2025
+  title: Member of the PPGEE/UFMG Collegiate Board
+
+- date: 2025
+  title: Two papers at IEEE ICAR 2025 and a journal paper in Robotics
+  link: /publications/

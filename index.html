@@ -1,0 +1,52 @@
+---
+layout: default
+---
+<section class="intro">
+  <img src="{{ '/assets/img/rogerio-lima.jpg' | relative_url }}" alt="Rogerio Lima" width="150" height="198">
+  <div>
+    <h1>Rogerio R. Lima</h1>
+    <p class="lead">Assistant Professor · Department of Electrical Engineering · Federal University of Minas Gerais (UFMG)</p>
+    <p>
+      I work on <strong>aerial robotics, tethered drones, robotic perception, sensor fusion</strong>,
+      applied AI and embedded systems. I received my B.Eng. and M.Sc. in Electrical Engineering from UFMG
+      and my Ph.D. in Robotics/Aerospace Engineering from West Virginia University. Before joining UFMG in 2025,
+      I was a postdoctoral fellow at Instituto Tecnológico Vale (ITV), an intern at MathWorks, a lecturer at UniBH,
+      and worked in industry at FITec and Konatus.
+    </p>
+    <div class="links">
+      <a href="mailto:{{ site.email }}">Email</a>
+      <a href="{{ '/assets/docs/cv-rogerio-lima.pdf' | relative_url }}">CV (PDF)</a>
+      {% for p in site.profiles %}<a href="{{ p.url }}">{{ p.name }}</a>{% endfor %}
+    </div>
+  </div>
+</section>
+
+<div class="callout">
+  <p><strong>Curso de extensão (gratuito, online):</strong>
+  <a href="{{ '/cursos/percepcao-robotica/' | relative_url }}">Introdução à Percepção Robótica: Sensores, Localização e Fusão Sensorial</a>.
+  Inscrições a partir de 15/11/2026.</p>
+</div>
+
+<h2>News</h2>
+<ul class="list">
+  {% for n in site.data.news %}
+  <li>
+    <span class="date">{{ n.date }}</span><br>
+    <span class="title">{% if n.link %}<a href="{{ n.link | relative_url }}">{{ n.title }}</a>{% else %}{{ n.title }}{% endif %}</span>
+    {% if n.text %}<br><span class="muted small">{{ n.text }}</span>{% endif %}
+  </li>
+  {% endfor %}
+</ul>
+
+<h2>Contact</h2>
+<p>
+  Department of Electrical Engineering, Engineering School, Room 2123<br>
+  Universidade Federal de Minas Gerais · Av. Antônio Carlos, 6627, Pampulha<br>
+  Belo Horizonte, MG, 31270-901, Brazil<br>
+  <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+</p>
+<p class="muted small">
+  Prospective students: graduate admission follows the
+  <a href="https://www.ppgee.ufmg.br/">PPGEE/UFMG</a> selection process. For undergraduate research,
+  send your CV, transcript and a short note on your interests.
+</p>

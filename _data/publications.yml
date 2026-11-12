@@ -1,0 +1,102 @@
+# Newest first. type: journal | conference | thesis | patent
+# Optional: doi, url, video, note
+- year: 2025
+  type: journal
+  title: Tension-Aware Motion Planning for Tethered Robots
+  authors: R. R. Lima and G. A. S. Pereira
+  venue: Robotics (MDPI), 14(2), 11
+  doi: 10.3390/robotics14020011
+
+- year: 2025
+  type: conference
+  title: Semantics-Aware Path Planning for Quadrupedal Robots
+  authors: R. R. Lima, L. Carvalho, A. Cid, L. G. D. de Barros, G. Pessin and G. M. Freitas
+  venue: IEEE International Conference on Advanced Robotics (ICAR), pp. 175–182
+  video: https://youtu.be/aUx0T6vrANc
+
+- year: 2025
+  type: conference
+  title: Autonomous Mapping and Navigation Unit for Aerial Robots
+  authors: J. Baião, D. Prado, L. Soares, G. Soares, A. Vangasse, G. Cruz, R. Lima, L. Pimenta, V. Gonçalves and G. Freitas
+  venue: IEEE International Conference on Advanced Robotics (ICAR), pp. 502–508
+
+- year: 2023
+  type: journal
+  title: Continuous Vector Fields for Precise Cable-Guided Landing of Tethered UAVs
+  authors: R. R. Lima, B. Martinez Rocamora and G. A. S. Pereira
+  venue: IEEE Robotics and Automation Letters, 8(7), pp. 4370–4377
+  doi: 10.1109/LRA.2023.3281940
+  video: https://www.youtube.com/watch?v=nCo1yEIxcQY
+
+- year: 2023
+  type: journal
+  title: A Multi-model Framework for Tether-based Drone Localization
+  authors: R. R. Lima and G. A. S. Pereira
+  venue: Journal of Intelligent & Robotic Systems, 108(2), 20
+  doi: 10.1007/s10846-023-01851-0
+
+- year: 2023
+  type: journal
+  title: "Oxpecker: A Tethered UAV for Inspection of Stone-Mine Pillars"
+  authors: B. Martinez Rocamora Jr., R. R. Lima, K. Samarakoon, J. Rathjen, J. N. Gross and G. A. S. Pereira
+  venue: Drones, 7(2), 73
+  doi: 10.3390/drones7020073
+
+- year: 2023
+  type: thesis
+  title: Exploiting the Advantages and Overcoming the Challenges of the Cable in a Tethered Drone System
+  authors: R. R. Lima
+  venue: Ph.D. dissertation, West Virginia University
+
+- year: 2023
+  type: patent
+  title: Tethering System for Localization and Landing of Drones
+  venue: U.S. Provisional Patent, filed June 2023
+
+- year: 2022
+  type: conference
+  title: Drone Collision Detection and Classification using Proprioceptive Data
+  authors: R. R. Lima and G. A. S. Pereira
+  venue: International Conference on Unmanned Aircraft Systems (ICUAS), pp. 562–569
+  doi: 10.1109/ICUAS54217.2022.9836207
+
+- year: 2021
+  type: conference
+  title: On the Development of a Tether-based Drone Localization System
+  authors: R. R. Lima and G. A. S. Pereira
+  venue: International Conference on Unmanned Aircraft Systems (ICUAS), pp. 195–201
+  doi: 10.1109/ICUAS51884.2021.9476778
+
+- year: 2013
+  type: conference
+  title: On the Development of a Small Hand-held Multi-UAV Platform for Surveillance and Monitoring
+  authors: G. S. C. Avellar, G. D. Thums, R. R. Lima, P. Iscold, L. A. B. Torres and G. A. S. Pereira
+  venue: International Conference on Unmanned Aircraft Systems (ICUAS), pp. 405–412
+  doi: 10.1109/ICUAS.2013.6564715
+
+- year: 2013
+  type: conference
+  title: Simulação Hardware-in-the-loop Aplicada à Avaliação de Algoritmos de Estimação de Atitude para VANTs
+  authors: G. S. Ribeiro, R. R. Lima, G. A. S. Pereira, L. A. B. Torres and L. C. A. Pimenta
+  venue: Simpósio Brasileiro de Automação Inteligente (SBAI)
+  url: http://www.sbai2013.ufc.br/pdfs/5850.pdf
+
+- year: 2013
+  type: thesis
+  title: Desenvolvimento de uma Cabeça Sensora para Veículos Aéreos Não-Tripulados
+  authors: R. R. Lima
+  venue: M.Sc. thesis, Universidade Federal de Minas Gerais
+
+- year: 2012
+  type: conference
+  title: Performance Evaluation of Attitude Estimation Algorithms in the Design of an AHRS for Fixed Wing UAVs
+  authors: R. R. Lima and L. A. B. Torres
+  venue: Brazilian Robotics Symposium and Latin American Robotics Symposium (SBR-LARS), pp. 255–260
+  doi: 10.1109/SBR-LARS.2012.61
+
+- year: 2008
+  type: conference
+  title: Estudo Regionalizado do Balanço de Cadeias de Isoladores devido à Ação do Vento
+  authors: M. F. Guimarães, C. A. M. Nascimento, R. M. Valle, G. A. C. França, R. R. Lima and G. A. A. Moreira
+  venue: Centro de Gestão de Tecnologia e Inovação (CGTI)
+  url: https://www.cgti.org.br/publicacoes/wp-content/uploads/2016/03/Estudo-Regionalizado-do-Balanc%CC%A7o-de-Cadeias-de-Isoladores-devido-a%CC%80-Ac%CC%A7a%CC%83o-do-Vento.pdf

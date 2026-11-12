@@ -1,0 +1,29 @@
+---
+layout: default
+title: Publications
+permalink: /publications/
+---
+<h1>Publications</h1>
+<p class="muted">Full list and citation metrics on
+  <a href="https://scholar.google.com/citations?user=KRpOMZUAAAAJ&hl=en">Google Scholar</a>.</p>
+
+{% assign by_year = site.data.publications | group_by: "year" %}
+{% for y in by_year %}
+<h2>{{ y.name }}</h2>
+<ul class="list">
+  {% for p in y.items %}
+  <li class="pub">
+    <span class="tag">{{ p.type }}</span><span class="title">{{ p.title }}</span><br>
+    {% if p.authors %}<span class="authors">{{ p.authors | replace: "R. R. Lima", "<strong>R. R. Lima</strong>" | replace: "R. Lima,", "<strong>R. Lima</strong>," }}</span><br>{% endif %}
+    <span class="venue">{{ p.venue }}</span>
+    {% if p.doi or p.url or p.video %}
+    <div class="extra">
+      {% if p.doi %}<a href="https://doi.org/{{ p.doi }}">DOI</a>{% endif %}
+      {% if p.url %}<a href="{{ p.url }}">PDF</a>{% endif %}
+      {% if p.video %}<a href="{{ p.video }}">Video</a>{% endif %}
+    </div>
+    {% endif %}
+  </li>
+  {% endfor %}
+</ul>
+{% endfor %}

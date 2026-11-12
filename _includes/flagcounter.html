@@ -1,0 +1,12 @@
+{%- comment -%}
+  Flag Counter. Set `flagcounter_id` in _config.yml (empty = hidden).
+  Shown on every page footer; it counts visits site-wide.
+{%- endcomment -%}
+{%- if site.flagcounter_id and site.flagcounter_id != "" -%}
+<div class="flagcounter">
+  <a href="https://info.flagcounter.com/{{ site.flagcounter_id }}" rel="nofollow noopener">
+    <img src="https://{{ site.flagcounter_server | default: 's01' }}.flagcounter.com/count2/{{ site.flagcounter_id }}/bg_FFFFFF/txt_475569/border_FFFFFF/columns_4/maxflags_12/viewers_0/labels_0/pageviews_1/flags_0/percent_0/"
+         alt="Flag Counter" loading="lazy" width="270" height="90">
+  </a>
+</div>
+{%- endif -%}

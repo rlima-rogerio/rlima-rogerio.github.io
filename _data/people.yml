@@ -1,0 +1,51 @@
+# photo: file name in /assets/img/students/ (optional; initials shown otherwise)
+current:
+  - group: Graduate
+    members:
+      - name: Lucas Carvalho Gonçalves
+        role: Ph.D. (co-advised with Prof. Gustavo Freitas) · PPGEE/UFMG
+        photo: lucas-goncalves.jpeg
+
+  - group: Undergraduate research
+    members:
+      - name: Antonio Marcos Nogueira de Souza
+        role: Aerospace Eng. · CNPq scholarship · since 2025/2
+      - name: Felipe Pereira Alves
+        role: Aerospace Eng. · Volunteer · since 2025/2
+        photo: felipe-alves.jpeg
+      - name: José Nilson Silva Rocha
+        role: Aerospace Eng. · FAPEMIG scholarship · since 2025/2
+        photo: jose-rocha.jpeg
+      - name: Wallace Magalhães Vieira
+        role: Electrical Eng. · Volunteer · since 2026/1
+      - name: Débora Moreira Barbosa
+        role: Aerospace Eng. · Volunteer · since 2026/1
+        photo: debora-barbosa.jpeg
+
+  - group: Capstone and internships
+    members:
+      - name: Caius Vinicius Coelho Moreira de Souza
+        role: Capstone · Control & Automation Eng. · Tail-sitter UAV modeling and simulation
+        photo: caius-souza.jpeg
+      - name: Guilherme de Paula Oliveira
+        role: Internship · Systems Eng.
+      - name: Nathan Philippi Jesus de Paula
+        role: Internship · Control & Automation Eng.
+      - name: Thiago Gomes Rezende
+        role: Internship · Electrical Eng.
+
+# Former advisees, newest first
+alumni:
+  - { name: Luis Eduardo Donizete, kind: Teaching assistant, place: UFMG, year: 2025, title: "Electrical Circuits" }
+  - { name: Jourdan Henrique Martins Pereira, kind: Capstone, place: UFMG, year: 2025, title: "Controle e Simulação de um Robô Seguidor de Linha" }
+  - { name: Richard Lopes Pereira, kind: Capstone, place: UFMG, year: 2025, title: "Desenvolvimento de um Robô Quadrúpede Didático de Baixo Custo" }
+  - { name: Cristiano Lopes Barbosa / Emerson Junio Costa, kind: Capstone, place: UniBH, year: 2019, title: "Sistema de Proteção contra Descargas Atmosféricas e Transitórios Elétricos" }
+  - { name: André Carlos Souza Valadão / Thiago Felipe Andrade Oliveira, kind: Capstone, place: UniBH, year: 2019, title: "Sistema Eletrônico Embarcado para Monitoramento do Tratamento Térmico e Incubação de Bebidas Lácteas" }
+  - { name: Alcyberg Carvalho da Silva / Caio Otaviano do Carmo, kind: Capstone, place: UniBH, year: 2018, title: "Visão Computacional para Inspeção Ótica Automatizada com Webcams para Controle de Qualidade" }
+  - { name: Glauber Stallone Siqueira / Paulo Henrique Mendes Granja, kind: Capstone, place: UniBH, year: 2018, title: "Sistema Microcontrolado para Verificação de Vazamento Hidráulico em Motobombas de Aeronaves" }
+  - { name: Gleison de Almeida Libério, kind: Capstone, place: UniBH, year: 2018, title: "Desenvolvimento de uma Máquina CNC de Baixo Custo" }
+  - { name: Nataniel Nascentes Pereira / Gabriel da Silva Pinto, kind: Capstone, place: UniBH, year: 2018, title: "Controle PID Digital Microcontrolado Aplicado a um Sistema Pêndulo-hélice Instável" }
+  - { name: Rubens Tadeu Gomes dos Reis, kind: Capstone, place: UniBH, year: 2018, title: "Irrigação Inteligente utilizando Sistemas Embarcados e IoT" }
+  - { name: David José da Silva / Jacqueline Celestina Porto, kind: Capstone, place: UniBH, year: 2017, title: "Automatização de Máquina para Enrolar Cabos" }
+  - { name: Kleydson Braga Guimarães / Renner Gustavo Ferreira Oliveira, kind: Capstone, place: UniBH, year: 2017, title: "Estufa Térmica com Controle PID Microcontrolada" }
+  - { name: Nathanael Camba Nicholls Sathler, kind: Capstone, place: UniBH, year: 2017, title: "Impressora 3D: Análise de Qualidade de Impressão" }
