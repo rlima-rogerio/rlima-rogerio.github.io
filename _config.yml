@@ -13,8 +13,8 @@ email: rogeriorl@ufmg.br
 # Flag Counter (https://flagcounter.com). From the generated code
 #   https://s05.flagcounter.com/count2/AbCd/...
 # use server "s05" and id "AbCd". Leave id empty to hide the counter.
-flagcounter_server: s01
-flagcounter_id: ""
+flagcounter_server: s05
+flagcounter_id: "ta5G"
 
 # Top navigation (order matters)
 nav:
