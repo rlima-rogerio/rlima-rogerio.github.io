@@ -1,5 +1,11 @@
 # Newest first. type: journal | conference | thesis | patent
 # Optional: doi, url, video, note
+- year: 2026
+  type: conference
+  title: Control and Simulation of a Line-Follower Robot
+  authors: J. H. M. Pereira, R. R. Lima and G. M. Freitas
+  venue: Brazilian Conference on Robotics (CROS), pp. 175–180
+
 - year: 2025
   type: journal
   title: Tension-Aware Motion Planning for Tethered Robots
