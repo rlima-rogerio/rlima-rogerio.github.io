@@ -22,17 +22,18 @@ current:
         role: Aerospace Eng. · Volunteer · since 2026/1
         photo: debora-barbosa.jpeg
 
-  - group: Capstone, internships and teaching assistants
+  - group: Capstone projects
     members:
       - name: Caius Vinicius Coelho Moreira de Souza
-        role: Capstone · Control & Automation Eng. · Tail-sitter UAV modeling and simulation
+        role: Control & Automation Eng. · Tail-sitter UAV modeling and simulation
         photo: caius-souza.jpeg
+
+  - group: Internships and teaching assistants
+    members:
       - name: Guilherme de Paula Oliveira
         role: Internship · Systems Eng.
       - name: Nathan Philippi Jesus de Paula
         role: Internship · Control & Automation Eng.
-      - name: Thiago Gomes Rezende
-        role: Internship · Electrical Eng.
       - name: Álvaro Bruno Martins de Souza
         role: Internship · Electrical Eng.
       - name: Natan Inoue dos Reis
